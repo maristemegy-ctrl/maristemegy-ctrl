@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=E91E63&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mariam;Aspiring+Bioinformatics+Researcher;AI+for+Healthcare+%7C+Computational+Medicine;Always+Learning%2C+Always+Building" />
+</p>
+
 <h1 align="center">Mariam Mohamed Abu Bakr</h1>
 
 <p align="center">
@@ -8,13 +12,23 @@ High School Student • Aspiring Researcher
 Bioinformatics • Computational Medicine • Genomics • Artificial Intelligence
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/mariam-m-abu-bakr-09a8a9318">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maristem.egy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## About Me
 
-I am a high school student from Egypt with a strong interest in the intersection of biology, medicine, and artificial intelligence.
+I'm Mariam Mohamed Abu Bakr, a high school student from Egypt passionate about advancing healthcare through Bioinformatics, Computational Medicine, Genomics, and Artificial Intelligence.
 
-Currently, I am building my foundation in programming, data analysis, and scientific research while preparing for international research opportunities and competitions.
+I'm currently building a strong foundation in programming, data analysis, machine learning, and scientific research while preparing for international research competitions and future academic opportunities.
 
 > *"Science is my curiosity. Technology is my tool. Impact is my goal."*
 
@@ -39,74 +53,121 @@ Currently, I am building my foundation in programming, data analysis, and scient
 
 - Bioinformatics
 - AI for Healthcare
-- Computational Medicine
 - Computational Biology
+- Computational Medicine
 - Precision Medicine
-- Environmental Technologies
+- Climate & Environmental Technologies
 
 ---
 
 ## Featured Projects
 
-- CO₂ Busters (ISEF Research Project)
-- Follicle Freeze Rescue
-- CropGuard AI
-- Python From Zero
+### Python From Zero
+A structured Python learning repository containing notes, exercises, mini-projects, and curated resources.
+
+### CO₂ Busters
+ISEF research project focused on carbon dioxide capture technologies for environmental sustainability.
+
+### Follicle Freeze Rescue
+A healthcare innovation project addressing scalp protection during chemotherapy.
+
+### CropGuard AI
+An AI-powered concept for improving agricultural monitoring and crop health.
 
 ---
 
-## Leadership
+## Leadership & Activities
 
-- Founder & CEO, Thanaweya Students Voice
-- Founder & Director, Biology Club
-- International Youth Conference Delegate
+- Founder & CEO — Thanaweya Students Voice
+- Founder & Director — Biology Club
 - Graphic Design Volunteer
+- International Youth Conference Delegate
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Programming
+<p align="left">
 
-- Python
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-### Data Analysis
+</p>
 
-- Pandas *(Learning)*
-- NumPy *(Learning)*
-- Matplotlib *(Learning)*
+### Currently Exploring
 
-### AI & Bioinformatics
+<p align="left">
 
-- Scikit-learn *(Planned)*
-- TensorFlow *(Planned)*
-- Biopython *(Planned)*
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-### Development Tools
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-- Git
-- GitHub
-- VS Code
-- Markdown
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+
+</p>
+
+### Next Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Biopython-3776AB?style=flat-square"/>
+
+</p>
+
+---
+
+## Skills
+
+- Scientific Research
+- Data Analysis
+- Problem Solving
+- Leadership
+- Public Speaking
+- Teamwork
+- Academic Writing
 
 ---
 
 ## Languages
 
-- Arabic (Native)
-- English (B1)
+- Arabic — Native
+- English — B1
 
 ---
 
-## Contact
+## Current Roadmap
 
-LinkedIn
+Python
+      ↓
+Data Analysis
+      ↓
+Statistics
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Bioinformatics
+      ↓
+Computational Medicine
+      ↓
+Research
+---
 
-linkedin.com/in/mariam-m-abu-bakr-09a8a9318
+## Vision
 
-Email
+To contribute to the future of healthcare by developing AI-powered solutions and conducting impactful research in Bioinformatics and Computational Medicine.
 
-maristem.egy@gmail.com
+---
+
+<p align="center">
+<i>Learning today. Building solutions for tomorrow.</i>
+</p>
 
 <!--
 **maristemegy-ctrl/maristemegy-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
