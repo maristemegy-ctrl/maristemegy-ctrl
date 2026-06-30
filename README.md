@@ -82,7 +82,31 @@ Currently, I am building my foundation in programming, data analysis, and scient
 - TensorFlow *(Planned)*
 - Biopython *(Planned)*
 
-### Development
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Markdown
+
+---
+
+## Languages
+
+- Arabic (Native)
+- English (B1)
+
+---
+
+## Contact
+
+LinkedIn
+
+linkedin.com/in/mariam-m-abu-bakr-09a8a9318
+
+Email
+
+maristem.egy@gmail.com
 
 <!--
 **maristemegy-ctrl/maristemegy-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
