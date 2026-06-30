@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mariam 👋</h1>
+<h1 align="center">Hello There, I'm Mariam 👋</h1>
 
 <h3 align="center">
-High School Student • Aspiring Researcher • Bioinformatics • Computational Medicine & Genomics
+High School Student • Bioinformatics • Computational Medicine & Genomics
 </h3>
 
 <p align="center">
