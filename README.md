@@ -1,137 +1,88 @@
-<h1 align="center">Hello There, I'm Mariam 👋</h1>
-
-<h3 align="center">
-High School Student • Bioinformatics • Computational Medicine & Genomics
-</h3>
+<h1 align="center">Mariam Mohamed Abu Bakr</h1>
 
 <p align="center">
-Biology × Artificial Intelligence × Medicine
+High School Student • Aspiring Researcher
+</p>
+
+<p align="center">
+Bioinformatics • Computational Medicine • Genomics • Artificial Intelligence
 </p>
 
 ---
 
 ## About Me
 
-Hi! I'm Mariam Mohamed Abu Bakr, a high school student from Egypt passionate about combining biology, medicine, and artificial intelligence to solve real-world healthcare challenges.
+I am a high school student from Egypt with a strong interest in the intersection of biology, medicine, and artificial intelligence.
 
-I'm currently building a strong foundation in programming, scientific research, data analysis, and machine learning while preparing for international research competitions and future academic opportunities.
+Currently, I am building my foundation in programming, data analysis, and scientific research while preparing for international research opportunities and competitions.
 
 > *"Science is my curiosity. Technology is my tool. Impact is my goal."*
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- 🐍 Python
-- 📊 Data Analysis
-- 📈 Statistics
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 🎯 Fine-tuning
-- 🧬 Bioinformatics
-- 🩺 Computational Medicine
-- 🧬 Genomics
-- 📖 Scientific Research
+- Python
+- Data Analysis
+- Statistics
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Bioinformatics
+- Computational Medicine
+- Genomics
+- Scientific Research
 
 ---
 
 ## Research Interests
 
-- 🧬 Bioinformatics
-- 🤖 AI for Healthcare
-- 🩺 Computational Medicine
-- 🧠 Computational Biology
-- 💊 Precision Medicine
-- 🌍 Climate & Environmental Technologies
+- Bioinformatics
+- AI for Healthcare
+- Computational Medicine
+- Computational Biology
+- Precision Medicine
+- Environmental Technologies
 
 ---
 
 ## Featured Projects
 
-- 🧪 CO₂ Busters *(ISEF Research Project)*
-- ❄️ Follicle Freeze Rescue
-- 🌾 CropGuard AI
-- 🐍 Python From Zero
+- CO₂ Busters (ISEF Research Project)
+- Follicle Freeze Rescue
+- CropGuard AI
+- Python From Zero
 
 ---
 
-## Leadership & Activities
+## Leadership
 
-- 🌸 Founder & CEO — Thanaweya Students Voice
-- 🧬 Founder & Director — Biology Club
-- 🎨 Graphic Design Volunteer
-- 🌍 International Youth Conference Delegate
-
----
-
-## Goals
-
-- Build AI-powered healthcare solutions.
-- Conduct impactful scientific research.
-- Contribute to Bioinformatics and Computational Medicine.
-- Study at a world-class research university.
+- Founder & CEO, Thanaweya Students Voice
+- Founder & Director, Biology Club
+- International Youth Conference Delegate
+- Graphic Design Volunteer
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Programming
 
-- 🐍 Python
+- Python
 
-### Currently Exploring
+### Data Analysis
 
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
+- Pandas *(Learning)*
+- NumPy *(Learning)*
+- Matplotlib *(Learning)*
 
-### Next Technologies
+### AI & Bioinformatics
 
-- 🤖 Scikit-learn
-- 🔥 TensorFlow
-- 🧬 Biopython
+- Scikit-learn *(Planned)*
+- TensorFlow *(Planned)*
+- Biopython *(Planned)*
 
-### Tools
-
-- 🌿 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 📝 Markdown
-
----
-
-## Skills
-
-- 🔬 Scientific Research
-- 📊 Data Analysis
-- 🧠 Problem Solving
-- 👥 Leadership
-- 🎤 Public Speaking
-- 🤝 Teamwork
-
----
-
-## Languages
-
-- 🇪🇬 Arabic (Native)
-- 🇬🇧 English (B1)
-
----
-
-## Connect with Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/mariam-m-abu-bakr-09a8a9318
-
-📧 Email  
-maristem.egy@gmail.com
-
----
-
-<p align="center">
-<i>Learning today. Building solutions for tomorrow.</i>
-</p>
+### Development
 
 <!--
 **maristemegy-ctrl/maristemegy-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
